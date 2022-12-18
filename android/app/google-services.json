@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133711956311",
+    "project_id": "fp30-6b8f2",
+    "storage_bucket": "fp30-6b8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133711956311:android:992b70b1d8770aa50b9612",
+        "android_client_info": {
+          "package_name": "com.example.fp30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133711956311-fpseri4pa013u9ud37fe3lumbmj9rgbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTH1OC8RlfVISHar_feQfwLKSmwYe4Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133711956311-fpseri4pa013u9ud37fe3lumbmj9rgbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
